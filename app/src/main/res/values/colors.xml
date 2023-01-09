@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#424242</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="green_temp">#23A96E</color>
+    <color name="green_dark">#159204</color>
+    <color name="bright_green">#02D8B0</color>
+    <color name="button_green">#10a54a</color>
+
+    <color name="light_blue">#1a75ff</color>
+    <color name="button_color">#1a75ff</color>
+
+    <!-- Intro Screen colours-->
+
+    <color name="screen1">#00BCD4</color>
+    <color name="screen2">#43A047</color>
+    <color name="screen3">#FB8C00</color>
+    <color name="screen4">#EF5350</color>
+    <color name="screen5">#9575CD</color>
+
+    <color name="dot_active_screen1">#75757575</color>
+    <color name="dot_active_screen2">#75757575</color>
+    <color name="dot_active_screen3">#75757575</color>
+    <color name="dot_active_screen4">#75757575</color>
+    <color name="dot_active_screen5">#75757575</color>
+
+    <color name="dot_inactive_screen1">#fff</color>
+    <color name="dot_inactive_screen2">#fff</color>
+    <color name="dot_inactive_screen3">#fff</color>
+    <color name="dot_inactive_screen4">#fff</color>
+    <color name="dot_inactive_screen5">#fff</color>
+
+    <array name="dot_active">
+        <item>@color/dot_inactive_screen1</item>
+        <item>@color/dot_inactive_screen2</item>
+        <item>@color/dot_inactive_screen3</item>
+        <item>@color/dot_inactive_screen4</item>
+        <item>@color/dot_inactive_screen5</item>
+    </array>
+
+    <array name="dot_inactive">
+        <item>@color/dot_active_screen1</item>
+        <item>@color/dot_active_screen2</item>
+        <item>@color/dot_active_screen3</item>
+        <item>@color/dot_active_screen4</item>
+        <item>@color/dot_active_screen5</item>
+    </array>
+
+    <color name="navItemSelected">#ffff</color>
+    
+    <color name="navItemBGSelected">#ffff</color>
+
+    <color name="navBGColor">#424242</color>
+
+    <color name="navHeaderBG">#69F0AE</color>
+
+    <color name="bgChangeOnSelectItem">#B71C1C</color>
+
+    <color name="tabsTextColor">#424242</color>
+
+    <color name="selectedTab">#00bfff</color>
+
+    <color name="tabIndicatorColor">#00bfff</color>
+
+    <color name="flatButton">#ffff</color>
+
+
+
+
+</resources>

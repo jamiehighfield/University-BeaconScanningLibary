@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="testLangString">Boreda</string>
+
+    <string name="homeTitle">Cartref</string>
+    <string name="settingsTitle">Gosodiadau</string>
+    <string name="favouritesTitle">Ffefrynnau</string>
+    <string name="beaconScanTitle">Arwydd scan</string>
+
+    <string name="changeLangBtn">Iaith newid</string>
+
+    <string name="beaconScanTW">Arwydd scan</string>
+
+    <string name="beaconScanBtn2">Arwydd scan</string>
+
+    <string name="favouritesInfo">Mae hyn yn y ffefryn dudalen</string>
+
+    <string name="changeLangBtn2">Iaith newid</string>
+
+    <string name="changeThemeBtn">Thema newid</string>
+
+    <string name="navHeaderTitle">Welsh Arwydd</string>
+
+    <string name="navHeaderSlogan">Sganio, Dod o hyd a Cwrdd</string>
+
+
+    <string name="homeFragTitle">Cartref</string>
+    <string name="favouritesFragTitle">Ffefrynnau</string>
+    <string name="settingsFragTitle">Gosodiadau</string>
+    <string name="beaconFragTitle">Arwydd scan</string>
+
+    <string name="SwapLang">Newid i Saesneg</string>
+
+
+</resources>

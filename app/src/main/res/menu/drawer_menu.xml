@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/homeGroup">
+
+        <item
+
+            android:id="@+id/home_id"
+            android:title="@string/homeTitle"
+            android:icon="@drawable/ic_home_black_48dp"
+
+            > </item>
+        </group>
+
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/settingsGroup">
+
+        <item
+            android:id="@+id/settings_id"
+            android:title="@string/settingsTitle"
+            android:icon="@drawable/ic_settings_black_48dp"
+            > </item>
+        </group>
+
+        <group
+            android:checkableBehavior="single"
+            android:id="@+id/favouritesGroup">
+
+        <item
+            android:id="@+id/favourites_id"
+            android:title="@string/favouritesTitle"
+            android:icon="@drawable/ic_star_black_48dp"
+        > </item>
+            </group>
+
+        <group
+            android:checkableBehavior="single"
+            android:id="@+id/beaconGroup">
+
+        <item
+            android:id="@+id/beacons_id"
+            android:title="@string/beaconScanTitle"
+            android:icon="@drawable/ic_gps_fixed_black_48dp"
+            > </item>
+
+
+
+
+
+    </group>
+
+</menu>

@@ -1,0 +1,46 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context="nsa.welshbeacons.SettingsFragment"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+
+    </RelativeLayout>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/changeLangBtn2"
+        android:id="@+id/changeLangBtn"
+        android:textColor="#00bfff"
+        android:background="#fff"
+        android:layout_marginTop="20sp"
+        android:layout_gravity="end"
+
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/changeThemeBtn"
+        android:id="@+id/changeThemeBtn"
+        android:textColor="#00bfff"
+        android:background="#fff"
+        android:layout_gravity="end"
+        android:layout_marginTop="100sp"
+
+        />
+
+
+
+</FrameLayout>
